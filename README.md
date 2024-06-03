@@ -18,16 +18,6 @@ It's important to give proper credit. Add links to any repo that inspired you or
 US Bikeshare Data Analysis
 This project explores data related to bike share systems for three major cities in the United States: Chicago, New York City, and Washington. The project allows the user to filter the data by city, month, and day of the week to display various statistics.
 
-Table of Contents
-Installation
-Usage
-Project Structure
-Functions
-Data Sources
-Contributing
-License
-Installation
-To run this project, you need Python 3 and the following libraries:
 
 pandas
 numpy
